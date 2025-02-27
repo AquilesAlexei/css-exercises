@@ -1,0 +1,14 @@
+.night-mode,
+.sunny-mode {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.night-mode {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.sunny-mode {
+    background-color: hsl(60, 100%, 50%);
+} 
